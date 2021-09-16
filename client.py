@@ -5,7 +5,7 @@
 x = input()
 x = x.split()
 host = x[0]
-port = int(x[1])              # Sets the variable port to 4446
+port = int(x[1])              # Sets the variable port to 4040
 
 file = x[2]
  

@@ -3,7 +3,7 @@ from socket import *  #import file
 serverSocket = socket(AF_INET, SOCK_STREAM)      # make socket
 
 host="127.1.1.1"                              # Set the server address to variable host
-port=4040                                       # Sets the variable port to 4446
+port=4040                                       # Sets the variable port to 4040
 
 serverSocket.bind((host,port))                   # Binds the socket. Note that the input to
 
