@@ -2,7 +2,7 @@
  Simple client and server request response example using python.
 
 ## Details:
-This is simple socket programming exmaple. 
+This is simple socket programming example. 
 A webserver in python which will be able to do the following:
 <ol type="i">
     <li>Take client HTTP requests for a file (Readme.txt)</li>
